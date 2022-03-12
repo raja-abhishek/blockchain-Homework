@@ -51,8 +51,11 @@ Tested complete PyChain ledger and user interface by running Streamlit applicati
 - Test the blockchain validation process by using the web interface. 
 
 #### Streamlit Application Screenshots
+##### Ledger Screenshot from Streamlit Application
+![Ledger](Ledger_Screenshot.png)
 
-
+##### Record Validation Screenshot from Streamlit Application
+![RecordValidation](RecordValidation_Screenshot.png)
 
 
 #### Sources for Streamlit features
